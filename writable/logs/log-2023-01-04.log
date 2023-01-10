@@ -1,0 +1,208 @@
+CRITICAL - 2023-01-04 13:05:27 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:09:21 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:09:28 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:12:45 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:26:35 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:34:08 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:43:51 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(43): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 13:57:50 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:28:53 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:29:28 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:31:36 --> Object of class App\Controllers\Libros could not be converted to string
+in APPPATH\Controllers\Libros.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:31:39 --> Object of class App\Controllers\Libros could not be converted to string
+in APPPATH\Controllers\Libros.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:33:00 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:33:22 --> Object of class App\Controllers\Libros could not be converted to string
+in APPPATH\Controllers\Libros.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:34:27 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:36:29 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:36:44 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:37:38 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:38:08 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(40): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:53:55 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 14:57:57 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-04 15:02:05 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

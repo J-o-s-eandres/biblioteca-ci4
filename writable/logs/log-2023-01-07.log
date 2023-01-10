@@ -1,0 +1,10 @@
+CRITICAL - 2023-01-07 10:20:58 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

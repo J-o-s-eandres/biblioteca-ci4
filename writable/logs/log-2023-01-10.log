@@ -1,0 +1,34 @@
+CRITICAL - 2023-01-10 10:13:36 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(863): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(721): CodeIgniter\BaseModel->update([...], [...])
+ 4 APPPATH\Controllers\Libros.php(87): CodeIgniter\Model->update('2', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->actualizar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-10 10:23:13 --> unlink(../public/uploads/imagen.png): No such file or directory
+in APPPATH\Controllers\Libros.php on line 104.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.png): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 104, [...])
+ 2 APPPATH\Controllers\Libros.php(104): unlink('../public/uploads/imagen.png')
+ 3 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->actualizar()
+ 4 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-10 10:24:29 --> unlink(../public/uploads/imagen.png): No such file or directory
+in APPPATH\Controllers\Libros.php on line 104.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.png): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 104, [...])
+ 2 APPPATH\Controllers\Libros.php(104): unlink('../public/uploads/imagen.png')
+ 3 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->actualizar()
+ 4 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-10 10:24:40 --> unlink(../public/uploads/imagen.png): No such file or directory
+in APPPATH\Controllers\Libros.php on line 104.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.png): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 104, [...])
+ 2 APPPATH\Controllers\Libros.php(104): unlink('../public/uploads/imagen.png')
+ 3 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->actualizar()
+ 4 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

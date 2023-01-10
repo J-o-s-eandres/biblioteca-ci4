@@ -1,0 +1,153 @@
+CRITICAL - 2023-01-09 09:18:29 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:23:55 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:24:34 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:24:39 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:24:56 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:25:01 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(41): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:53:01 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(44): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 09:53:15 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(44): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:01:25 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(48): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:26:05 --> Allowed fields must be specified for model: App\Models\Libro
+in SYSTEMPATH\BaseModel.php on line 1162.
+ 1 SYSTEMPATH\BaseModel.php(1162): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Libro')
+ 2 SYSTEMPATH\BaseModel.php(725): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(695): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Libros.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:33:54 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Views\libros\listar.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(19): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:34:22 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Views\libros\listar.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(19): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:34:23 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Views\libros\listar.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(19): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:34:23 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Views\libros\listar.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(19): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:34:23 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Views\libros\listar.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(19): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-09 10:41:20 --> unlink(../public/uploads/imagen.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.jpg): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 62, [...])
+ 2 APPPATH\Controllers\Libros.php(62): unlink('../public/uploads/imagen.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Libros->borrar('1')
+ 4 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
